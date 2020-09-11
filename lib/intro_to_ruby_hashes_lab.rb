@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash(hash) 
-  hash = {:name jordan, :age 18}
+  hash = {name: jordan, age: 18}
 end
 
 def pioneer
